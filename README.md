@@ -1,3 +1,9 @@
+This is a simple Todoo-list project developed with Reactjs
+
+This project can be viewed on :- https://ananthansp10-todoo-list.netlify.app
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
